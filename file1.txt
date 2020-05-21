@@ -7,3 +7,5 @@ brbr
 
 KK
 1
+
+github 인증정보 삭제 테스트
